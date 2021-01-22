@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38a1cc39.chunk.css",
+    "main.js": "/static/js/main.d3462277.chunk.js",
+    "main.js.map": "/static/js/main.d3462277.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e3f126ff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e3f126ff.js.map",
+    "static/css/2.1a053a69.chunk.css": "/static/css/2.1a053a69.chunk.css",
+    "static/js/2.8a7a76b8.chunk.js": "/static/js/2.8a7a76b8.chunk.js",
+    "static/js/2.8a7a76b8.chunk.js.map": "/static/js/2.8a7a76b8.chunk.js.map",
+    "static/js/3.7f99d4f7.chunk.js": "/static/js/3.7f99d4f7.chunk.js",
+    "static/js/3.7f99d4f7.chunk.js.map": "/static/js/3.7f99d4f7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1a053a69.chunk.css.map": "/static/css/2.1a053a69.chunk.css.map",
+    "static/css/main.38a1cc39.chunk.css.map": "/static/css/main.38a1cc39.chunk.css.map",
+    "static/js/2.8a7a76b8.chunk.js.LICENSE.txt": "/static/js/2.8a7a76b8.chunk.js.LICENSE.txt",
+    "static/media/app-dark.css": "/static/media/design_components.9d561197.svg",
+    "static/media/feather.css": "/static/media/feather.ef10fcd0.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3f126ff.js",
+    "static/css/2.1a053a69.chunk.css",
+    "static/js/2.8a7a76b8.chunk.js",
+    "static/css/main.38a1cc39.chunk.css",
+    "static/js/main.d3462277.chunk.js"
+  ]
+}
