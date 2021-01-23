@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e2610202-f214-494a-803b-cf05cfc26ef2/deploy-status)](https://app.netlify.com/sites/mobius/deploys)
+
 # MobiusTrader 7
 
 ---
