@@ -7,3 +7,9 @@
 ![Mobius Trader 7](https://raw.githubusercontent.com/definaru/mobius_trade/master/img/7.jpg)
 
 **[OPEN PAGE](https://mobius.netlify.app)**
+
+
+### For login on dashboard
+
+- e-mail: test@mail.com
+- password: 123456
